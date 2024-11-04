@@ -3,18 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Suelo
+  - Transition
+  - Room
+  - Checkpoint
+  - Escondite
+  - ChangeScale
+  - AudioController
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Obstaculos
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Damage
+  - Room
+  - Checkpoint
+  - EndBullet
   - 
   - 
   - 
