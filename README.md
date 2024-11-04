@@ -18,8 +18,8 @@ VVVVVV es un juego de plataformas donde los jugadores deben navegar a través de
 El objetivo principal es completar cada nivel evitando obstáculos y enemigos, recolectando los objetos necesarios intercambiando la gravedad del personaje.
 
 ## Requisitos Técnicos
-- **Versión de Unity**: El proyecto ha sido desarrollado con Unity ['2022.3.46.f1'].
-- **Sistema Operativo**: Funciona en Windows, macOS y Linux.
+- **Versión de Unity**: El proyecto ha sido desarrollado con Unity [2022.3.46.f1].
+- **Sistema Operativo**: Funciona en Windows.
 
 ## Instalación
 1. Clona el repositorio:
