@@ -1,11 +1,11 @@
-# CognomsNom_M17UF1R1
+# MolanoArnau_M17UF1R1
 
 ## Descripción del Juego
 **Nombre del juego:** VVVVVV  
 **Género:** Plataforma  
 **Visualización:** 2D
 
-VVVVVV es un juego de plataformas donde los jugadores deben navegar a través de una serie de niveles desafiantes, invirtiendo la gravedad para evitar obstáculos y enemigos. El objetivo es rescatar a los compañeros del protagonista mientras se enfrentan a retos únicos en cada nivel.
+VVVVVV es un juego de plataformas donde los jugadores deben navegar a través de una serie de niveles desafiantes, invirtiendo la gravedad para evitar obstáculos y enemigos.
 
 ## Instrucciones de Juego
 
@@ -15,10 +15,10 @@ VVVVVV es un juego de plataformas donde los jugadores deben navegar a través de
 - **Invertir gravedad**: Presiona la barra espaciadora (`Espacio`) para invertir la gravedad y permitir que el personaje suba o baje.
 
 ### Objetivo del Juego
-El objetivo principal es completar cada nivel evitando obstáculos y enemigos, recolectando monedas y rescatando a los compañeros que han sido atrapados en diferentes dimensiones.
+El objetivo principal es completar cada nivel evitando obstáculos y enemigos, recolectando los objetos necesarios intercambiando la gravedad del personaje.
 
 ## Requisitos Técnicos
-- **Versión de Unity**: El proyecto ha sido desarrollado con Unity [inserta la versión de Unity que usaste, ej. "2021.3.8f1"].
+- **Versión de Unity**: El proyecto ha sido desarrollado con Unity [2022.3.46.f1].
 - **Sistema Operativo**: Funciona en Windows, macOS y Linux.
 
 ## Instalación
